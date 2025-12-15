@@ -1,21 +1,28 @@
-# La Biarnesa
+# Gran Biarnesa
 
-Caractère typographique aux accents béarnais dessiné, conçu et développé par la [Maison des éditions](https://maisondeseditions.fr) avec [Léo Gaullier](https://leogaullier.fr) pour le [Pays de Béarn](https://pays-de-bearn.fr).
+Un caractère typographique aux accents béarnais dessiné, conçu et développé par [Ivan Bléhaut](https://atelierzud.net/) et [Léo Gaullier](https://leogaullier.fr) dans le cadre d’une commande à la [Maison des éditions](https://maisondeseditions.fr) par le [Pays de Béarn](https://pays-de-bearn.fr).
 
-![La Biarnesa: Une police identitaire pour la communication en Pays de Béarn](images/Biarnesa-1.svg) 
+Le caractère est décliné selon deux approches : Gran Biarnesa, pour le titrage et [Biarnesa tèxte](https://github.com/maisondeseditions/biarnesa-texte).
 
-![Jeu de caractères](images/Biarnesa-2.svg) 
+![Gran Biarnesa et Biarnesa tèxte](images/granbiarnesa-biarnesatexte.png) 
 
-![Cascade](images/Biarnesa-3.svg) 
+![Gran Biarnesa: une police identitaire pour la communication en Pays de Béarn](images/granbiarnesa-1.jpg) 
 
-![Tensha dessenhavan camin setar pasmens arribat cadiera elha taula pastre etal](images/Biarnesa-4.svg) 
+![Jeu de caractères](images/granbiarnesa-2.jpg) 
 
-![Ligatures](images/Biarnesa-5.svg) 
+![Cascade](images/granbiarnesa-3.jpg) 
 
-![Texte, ligatures, chiffres et ponctuation](images/Biarnesa-6.svg) 
+![Texte, ligatures, chiffres et ponctuation](images/granbiarnesa-4.jpg) 
 
-![Caractéristiques](images/Biarnesa-7.svg) 
+![Caractéristiques](images/granbiarnesa-5.jpg) 
 
-![Caractéristiques détaillées](images/Biarnesa-8.svg) 
+![Tensha dessenhavan camin setar pasmens arribat cadiera elha taula pastre etal](images/granbiarnesa-6.jpg) 
 
-![Après la sopa un còp de vi, un escut de mensh tau medecin](images/Biarnesa-9.svg)
+![Guièm d’Aquitania - Pèire vaquieràs - Roman memòri - La revòuta dei cascavèus](images/granbiarnesa-7.jpg) 
+
+![Après la sopa un còp de vi, un escut de mensh tau medecin](images/granbiarnesa-8.jpg) 
+
+
+## Licence
+
+Le caractère est distribué sous licence libre [SIL Open Font Licence](LICENCE).
