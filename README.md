@@ -1,6 +1,6 @@
 # Gran Biarnesa
 
-Un caractère typographique aux accents béarnais dessiné, conçu et développé par [Ivan Bléhaut](https://atelierzud.net/) et [Léo Gaullier](https://leogaullier.fr) dans le cadre d’une commande à la [Maison des éditions](https://maisondeseditions.fr) par le [Pays de Béarn](https://pays-de-bearn.fr).
+Un caractère typographique aux accents béarnais dessiné, conçu et développé par [Ivan Bléhaut](https://atelierzud.net/), Claire Colnot et [Léo Gaullier](https://leogaullier.fr) dans le cadre d’une commande à la [Maison des éditions](https://maisondeseditions.fr) par le [Pays de Béarn](https://pays-de-bearn.fr).
 
 Le caractère est décliné selon deux approches : Gran Biarnesa, pour le titrage et [Biarnesa tèxte](https://github.com/maisondeseditions/biarnesa-texte).
 
