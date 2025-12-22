@@ -6,7 +6,7 @@ Un caractère typographique aux accents béarnais dessiné, conçu et développ�
 
 Le caractère est décliné selon deux approches : Gran Biarnesa, pour le titrage et [Biarnesa tèxte](https://github.com/maisondeseditions/biarnesa-texte).
 
-> Lo caractèr qu’ei declinat en dus apròchis : Gran Biarnesa e [Biarnesa tèxte entau tèxte](https://github.com/maisondeseditions/biarnesa-texte).
+> Lo caractèr qu’ei declinat en dus apròchis : Gran Biarnesa e [Biarnesa tèxte](https://github.com/maisondeseditions/biarnesa-texte) entau tèxte.
 
 ![Gran Biarnesa et Biarnesa tèxte](images/granbiarnesa-biarnesatexte.png) 
 
