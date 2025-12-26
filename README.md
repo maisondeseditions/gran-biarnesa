@@ -2,7 +2,7 @@
 
 Un caractère typographique aux accents béarnais dessiné, conçu et développé par [Ivan Bléhaut](https://atelierzud.net/), [Claire Colnot](https://www.work-in-process.eu/) et [Léo Gaullier](https://leogaullier.fr) dans le cadre d’une commande à la [Maison des éditions](https://maisondeseditions.fr) par le [Pays de Béarn](https://pays-de-bearn.fr).
 
-> Un caractèr tipografic dab accents bearnés dessenhat, concebut e desvolopat per Ivan Bléhaut e Léo Gaullier en l’encastre d’ua comanda a la Maison des éditions peu País de Bearn.
+> Un caractèr tipografic dab accents bearnés dessenhat, concebut e desvolopat per Ivan Bléhaut, Claire Colnot e Léo Gaullier en l’encastre d’ua comanda a la Maison des éditions peu País de Bearn.
 
 Le caractère est décliné selon deux approches : Gran Biarnesa, pour le titrage et [Biarnesa tèxte](https://github.com/maisondeseditions/biarnesa-texte).
 
